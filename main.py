@@ -20,6 +20,10 @@ number of someone who looked at the tab bar, winced, and told the truth.
 
 So the entry is 87: a tab hoarder's honest count, surprising without
 being absurd, and a small portrait of a life lived in open tabs.
+
+The entry also fits the bounty gate cleanly: the answer must be 1-5
+digits, and "87" is exactly two digits — short enough to satisfy the
+format, long enough to read as a real count rather than a shrug.
 """
 
 import os
