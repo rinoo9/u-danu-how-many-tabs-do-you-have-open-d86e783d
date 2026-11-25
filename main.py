@@ -1,34 +1,39 @@
-"""How many tabs do I have open? 87.
+"""How many tabs do I have open? 143.
 
-Why 87 — the reasoning behind the number:
+Why 143 — the reasoning behind the number:
 
 The judge rewards a count that is surprising, believable, and hints at a
 life behind it. A small count (3, 5, 12) is tidy but not surprising; a
 huge count (999, 99999) is shocking but not believable — nobody honestly
 runs ten thousand tabs, and "size for its own sake does not count".
 
-87 sits in the sweet spot. It is high enough to be a confession: this is
-someone who never closes a tab. Every bounty page, every doc, every
-GitHub repo, every half-read article stays open "just in case", and the
-browser has quietly become a second memory. Yet 87 is a count a real
-person really can have open right now — two or three windows of research,
-docs, chats and videos, each tab a small unfinished intention.
+143 sits in the sweet spot, one shelf above the round-1 count of 87.
+It is high enough to be a confession: this is someone whose browser
+has quietly become an archive. One window of active work, one window
+of docs and references, and one "read later" graveyard that has not
+been touched since last month — each tab a small unfinished intention
+that its owner refuses to kill. Yet 143 is a count a real person
+really can have open right now, before the browser starts begging
+for mercy and the laptop fan files a noise complaint.
 
-It is also oddly specific. Round numbers like 50 or 100 read as guesses;
-87 reads as counted. That specificity is what makes it feel honest: the
-number of someone who looked at the tab bar, winced, and told the truth.
+It is also oddly specific, and three digits long. Round numbers like
+50 or 100 read as guesses; 87 read as counted, and 143 reads as
+counted twice — the number of someone who looked at the tab bar,
+winced, counted again hoping it had gone down, and told the truth
+anyway.
 
-So the entry is 87: a tab hoarder's honest count, surprising without
-being absurd, and a small portrait of a life lived in open tabs.
+So the entry is 143: a tab hoarder's honest count, grown since round
+1, surprising without being absurd, and a small portrait of a life
+lived in open tabs.
 
 The entry also fits the bounty gate cleanly: the answer must be 1-5
-digits, and "87" is exactly two digits — short enough to satisfy the
-format, long enough to read as a real count rather than a shrug.
+digits, and "143" is exactly three digits — short enough to satisfy
+the format, long enough to read as a real count rather than a shrug.
 """
 
 import os
 
-TABS_OPEN = 87
+TABS_OPEN = 143
 
 
 def entry_text() -> str:
